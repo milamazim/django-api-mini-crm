@@ -44,10 +44,10 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # Local apps
-    #'clients',
-    #'opportunities',
-    #'products',
-    #'proposals',
+    'clients',
+    'opportunities',
+    'products',
+    'proposals',
 ]
 
 MIDDLEWARE = [
